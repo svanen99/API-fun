@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+
